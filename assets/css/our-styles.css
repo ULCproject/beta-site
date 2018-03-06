@@ -281,3 +281,12 @@ input[type="email"] {
 .section-title.token-section {
   margin-bottom: 30px;
 }
+
+.team-section {
+  background-color: #f8f8f8;
+}
+
+.justify-content-center {
+  -ms-flex-pack: center!important;
+  justify-content: center!important;
+}
