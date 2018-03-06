@@ -277,3 +277,7 @@ input[type="email"] {
 .click-here:focus:hover {
   color: #555;
 }
+
+.section-title.token-section {
+  margin-bottom: 30px;
+}
