@@ -185,7 +185,7 @@ html, body {
 }
 
 .scroll-menu {
-  height: 500px;
+  height: 300px;
   overflow-y: scroll;
   z-index: -1;
 }
