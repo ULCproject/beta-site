@@ -43,25 +43,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 50510,
+				"buffer_size": 52604,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "to-do.txt",
-			"settings":
-			{
-				"buffer_size": 129,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "assets/css/our-styles.css",
 			"settings":
 			{
-				"buffer_size": 5054,
+				"buffer_size": 5098,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -116,12 +107,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Derrick/Desktop/ulc-site",
-		"/C/Users/Derrick/Desktop/ulc-site/assets",
-		"/C/Users/Derrick/Desktop/ulc-site/assets/css"
+		"/home/derrick/beta-site",
+		"/home/derrick/beta-site/assets",
+		"/home/derrick/beta-site/assets/js"
 	],
 	"file_history":
 	[
+		"/home/derrick/beta-site/to-do.txt",
+		"/home/derrick/beta-site/assets/js/scripts_old.js",
+		"/home/derrick/beta-site/assets/js/scripts.js",
 		"/C/Users/Derrick/Desktop/ulc-site/to-do.txt",
 		"/C/Users/Derrick/Documents/Unblocked/unblocked-consensus-test/server/server.iced",
 		"/C/Users/Derrick/Documents/Unblocked/unblocked-consensus-test/launcher.iced",
@@ -246,14 +240,11 @@
 		"/C/Users/Derrick/Desktop/ambassador-website/order/config/index.js",
 		"/C/Dev/first-ng-app/src/app/server/server.component.html",
 		"/C/Dev/first-ng-app/src/app/server/server.component.ts",
-		"/C/Dev/first-ng-app/src/app/app.component.html",
-		"/C/Dev/first-ng-app/src/app/app.module.ts",
-		"/C/Dev/first-ng-app/src/index.html",
-		"/C/Dev/first-ng-app/src/app/other/other.component.html"
+		"/C/Dev/first-ng-app/src/app/app.component.html"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -267,6 +258,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"venobox",
+			"cd headline",
+			"venobox",
+			"owl",
+			".home",
+			"preloader",
 			".</",
 			"about-image",
 			"form",
@@ -356,7 +353,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -365,73 +362,45 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 50510,
+						"buffer_size": 52604,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								32047,
-								32047
+								52311,
+								52311
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/User/AngularJS/AngularJS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6759.0,
+						"translation.y": 396.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "to-do.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "assets/css/our-styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5054,
+						"buffer_size": 5098,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4951,
-								4951
+								5098,
+								5098
 							]
 						],
 						"settings":
@@ -441,14 +410,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3299.0,
+						"translation.y": 3781.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "assets/css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -482,7 +451,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -523,7 +492,7 @@
 	"project": "ulc-site.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

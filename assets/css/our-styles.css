@@ -294,3 +294,9 @@ input[type="email"] {
 .whitepaper-button {
   margin-top: 40px;
 }
+
+.change-on-hover:hover {
+  color: #ed1b24;
+  transition: all 0.2s;
+  cursor: default;
+}
