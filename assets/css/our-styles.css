@@ -315,5 +315,8 @@ a.nav-link.nav-dropdown-link:active, a.nav-link.nav-dropdown-link:focus {
 
 .dropdown-menu {
   background-color: #333;
-  color: #111;
+}
+
+.dropdown-item {
+  color: #eee;
 }
