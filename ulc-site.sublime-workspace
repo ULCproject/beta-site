@@ -43,9 +43,18 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 54387,
+				"buffer_size": 56381,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "to-do.txt",
+			"settings":
+			{
+				"buffer_size": 36,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -107,15 +116,12 @@
 	},
 	"expanded_folders":
 	[
-		"/home/derrick/beta-site",
-		"/home/derrick/beta-site/assets",
-		"/home/derrick/beta-site/assets/js"
+		"/C/Users/Derrick/Desktop/ulc-site",
+		"/C/Users/Derrick/Desktop/ulc-site/assets",
+		"/C/Users/Derrick/Desktop/ulc-site/assets/css"
 	],
 	"file_history":
 	[
-		"/home/derrick/beta-site/to-do.txt",
-		"/home/derrick/beta-site/assets/js/scripts_old.js",
-		"/home/derrick/beta-site/assets/js/scripts.js",
 		"/C/Users/Derrick/Desktop/ulc-site/to-do.txt",
 		"/C/Users/Derrick/Documents/Unblocked/unblocked-consensus-test/server/server.iced",
 		"/C/Users/Derrick/Documents/Unblocked/unblocked-consensus-test/launcher.iced",
@@ -240,11 +246,14 @@
 		"/C/Users/Derrick/Desktop/ambassador-website/order/config/index.js",
 		"/C/Dev/first-ng-app/src/app/server/server.component.html",
 		"/C/Dev/first-ng-app/src/app/server/server.component.ts",
-		"/C/Dev/first-ng-app/src/app/app.component.html"
+		"/C/Dev/first-ng-app/src/app/app.component.html",
+		"/C/Dev/first-ng-app/src/app/app.module.ts",
+		"/C/Dev/first-ng-app/src/index.html",
+		"/C/Dev/first-ng-app/src/app/other/other.component.html"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -258,12 +267,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"venobox",
-			"cd headline",
-			"venobox",
-			"owl",
-			".home",
-			"preloader",
 			".</",
 			"about-image",
 			"form",
@@ -362,25 +365,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 54387,
+						"buffer_size": 56381,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29876,
-								29876
+								54289,
+								54289
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/User/AngularJS/AngularJS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7590.0,
+						"translation.y": 12537.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -388,6 +391,34 @@
 				},
 				{
 					"buffer": 1,
+					"file": "to-do.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "assets/css/our-styles.css",
 					"semi_transient": false,
 					"settings":
@@ -399,8 +430,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								4951,
+								4951
 							]
 						],
 						"settings":
@@ -410,14 +441,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3531.0,
+						"translation.y": 3299.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "assets/css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -443,7 +474,7 @@
 						"translation.y": 27421.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -451,7 +482,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 21.0
 	},
 	"input":
 	{
@@ -492,7 +523,7 @@
 	"project": "ulc-site.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 38.0
 	},
 	"save_all_on_build": true,
 	"select_file":
