@@ -153,7 +153,7 @@ p.member-title {
   background-color: #ed1b24;
 }
 
-.faq-tab .nav-tabs .nav-item.show .nav-link, .faq-tab .nav-tabs .nav-link.active {
+.faq-tab .nav-tabs .nav-item.show .nav-link, .faq-tab .nav-tabs .nav-link.active .nav-dropdown-link {
   border: none;
   border-left: 3px solid #ed1b24;
 }
@@ -299,4 +299,21 @@ input[type="email"] {
   color: #ed1b24;
   transition: all 0.2s;
   cursor: default;
+}
+
+a.nav-link.nav-dropdown-link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+a.nav-link.nav-dropdown-link:active, a.nav-link.nav-dropdown-link:focus {
+  border: none;
+  outline: none;
+}
+
+.dropdown-menu {
+  background-color: #333;
+  color: #111;
 }

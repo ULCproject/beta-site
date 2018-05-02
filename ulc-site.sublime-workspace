@@ -43,7 +43,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 56381,
+				"buffer_size": 57394,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -267,6 +267,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"resources",
 			".</",
 			"about-image",
 			"form",
@@ -365,15 +366,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 56381,
+						"buffer_size": 57394,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								54289,
-								54289
+								4125,
+								4125
 							]
 						],
 						"settings":
@@ -383,7 +384,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12537.0,
+						"translation.y": 874.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
